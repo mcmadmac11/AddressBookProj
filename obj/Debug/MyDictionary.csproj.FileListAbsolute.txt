@@ -1,0 +1,6 @@
+c:\users\dan\documents\visual studio 2015\Projects\MyDictionary\bin\Debug\MyDictionary.exe.config
+c:\users\dan\documents\visual studio 2015\Projects\MyDictionary\bin\Debug\MyDictionary.exe
+c:\users\dan\documents\visual studio 2015\Projects\MyDictionary\bin\Debug\MyDictionary.pdb
+c:\users\dan\documents\visual studio 2015\Projects\MyDictionary\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2015\Projects\MyDictionary\obj\Debug\MyDictionary.exe
+c:\users\dan\documents\visual studio 2015\Projects\MyDictionary\obj\Debug\MyDictionary.pdb
