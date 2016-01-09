@@ -1,0 +1,13 @@
+﻿Create a dictionary contact book 
+    
+The key will be the name of a contact and the value will be a phone number
+
+Create classes and functions to use the address book
+
+Make sure to override and overload functions. Be prepared to explain why you used it in the way that you did. 
+
+Overload an operator in some way
+
+Don’t be afraid to use an interface or abstract class (practice makes perfect!)
+
+Tip: An interface should begin with a capital ‘I’. Ex: IPart or IMovable

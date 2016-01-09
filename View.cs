@@ -8,12 +8,16 @@ namespace MyDictionary
 {
     class View
     {
-        public void display()
+        public View(ContactList contactList)
         {
-            Console.WriteLine("Welcome to AddressBook! /n would you like to search for an existing entry or create a new one?");
+
+            Dictionary<string, uint> Contacts = new Dictionary<string, uint>();
+            Contacts.Equals(contactList);
 
 
         }
+
+
     }
     
 }
